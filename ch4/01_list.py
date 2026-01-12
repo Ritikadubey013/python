@@ -1,5 +1,5 @@
 friends =["apple","orange",5, 345.5, False, "jatin"]
-
+print(type(friends))
 print(friends[0])
 print(friends[0:2])
 
