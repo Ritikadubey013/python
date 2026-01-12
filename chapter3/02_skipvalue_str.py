@@ -8,7 +8,7 @@ print(name.title())
 print(name.lower())
 print(name.upper())
 print(name.find("ritika"))
-print(name.replace("ritka","yoo"))
+print(name.replace("ritka","yoo"))# why its not replacing
 
 
 string ="abracadabra"

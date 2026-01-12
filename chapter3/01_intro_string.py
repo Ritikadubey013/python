@@ -1,4 +1,5 @@
 name="jatinr"
+
 nameshort=len(name)
 print(len(name))
 
