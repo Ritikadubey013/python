@@ -1,14 +1,14 @@
-name="ritika jatin"
+name="Ritka dubey"
 
 print(len(name))
 print(name.endswith("ika"))
-print(name.startswith("rit"))
+print(name.startswith("Rit"))
 print(name.capitalize())
 print(name.title())
 print(name.lower())
 print(name.upper())
-print(name.find("ritika"))
-print(name.replace("ritka","yoo"))# why its not replacing
+print(name.find("Ritika"))
+print(name.replace("Ritka","lucky"))
 
 
 string ="abracadabra"
