@@ -1,3 +1,4 @@
+d={} #empty dictionary
 marks={
     "ritika":100,
     "arya":98,       #all indexing has been done
