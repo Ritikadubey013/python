@@ -5,7 +5,7 @@ marks={
     "jats":99
 }
 marks={"ritika":98}      #dict is mutable 
-
+print(len(marks))
 print(marks,type(marks))
 #print(marks[0]) error
 print(marks["ritika"])
