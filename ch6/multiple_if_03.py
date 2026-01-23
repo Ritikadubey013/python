@@ -2,7 +2,7 @@ a=int(input("enter your age"))
 
 #if statement 1
 if(a%2==0):
-    print("a is even ")
+    print("a is even ") #independent if statement 
 
 #if statement 2
 if(a>=18):
