@@ -8,3 +8,12 @@ while(i<len(l)):
 
 for l in range(1,6):
     print(l)
+
+
+for i in range(0,100,5):
+    print(i)
+
+l=[1,3,4,"harry"]
+
+for i in l:
+    print(i)
