@@ -1,6 +1,6 @@
 post=input("enter the post:")
 
-if("harry" in post):
+if("harry".lower() in post.lower()):
     print("this post is talking about harry")
 
 else:
