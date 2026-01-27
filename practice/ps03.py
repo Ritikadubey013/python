@@ -4,8 +4,8 @@ is_prime = True
 if n <= 1:
     is_prime = False
 else:
-    for i in range(2, n):
-        if n % i == 0:
+    for a in range(2, n):
+        if n % a == 0:
             is_prime = False
             break
 
