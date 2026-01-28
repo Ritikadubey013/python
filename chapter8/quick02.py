@@ -1,10 +1,10 @@
 
-def msg():
+def msg(): #function definition 
     a=input("enter user name")
 
     print(a)
 
-msg()
+msg() #function call
 print("nice day")
 msg()
 print("nice day")
